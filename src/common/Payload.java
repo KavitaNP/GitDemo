@@ -3,7 +3,7 @@ package common;
 public class Payload 
 {
 
-	public static String addPlace()
+	public static String addPlace1()
 	{
 		return "{\r\n" + 
 				"  \"location\": {\r\n" + 
